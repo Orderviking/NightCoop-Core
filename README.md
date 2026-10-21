@@ -1,6 +1,6 @@
 # 🌐 NightCoop-Core
 
-
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2c42b97c-7118-42b7-ac11-3b6bb1adc6c8" />
 
 
 <p align="center">
